@@ -62,12 +62,4 @@ Coming soon...
 
 ## Documentation
 
-See design documentation for comprehensive specifications.
-
-## License
-
-MIT
-
-## Contributors
-
-Made with ❤️ for baseball fans
+Comming soon...
