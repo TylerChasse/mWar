@@ -4,11 +4,11 @@ A customizable WAR (Wins Above Replacement) calculator for MLB players. Adjust s
 
 ## Features
 
-- 📊 Customizable stat weights for both batters and pitchers
-- 🎯 Save and share custom formulas
-- 📈 Dynamic leaderboards with your custom calculations
-- 🔍 Player search and comparison tools
-- ⚡ Real-time calculations with hybrid client/server architecture
+- Customizable stat weights for both batters and pitchers
+- Save and share custom formulas
+- Dynamic leaderboards with your custom calculations
+- Player search and comparison tools
+- Real-time calculations with hybrid client/server architecture
 
 ## Tech Stack
 
